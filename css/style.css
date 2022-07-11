@@ -28,7 +28,7 @@ h1{
 }
 .left{
     width: 50%;
-    background-image: url(/assets/image1.jpg);
+    background-image: url(./assets/image1.jpg);
     background-position: center;
     background-size: cover;
     border-top-left-radius: 10px;
