@@ -11,8 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### The challenge
 
 Users should be able to:
@@ -22,8 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/)
-
+![](./screenshots/desktop-view.png)
+![](./screenshots/mobile-view.png)
 ### What I learned
 
 Positioning the flexbox and div's were really tricky. It took me a while to find a suitable solution, i still hope to improve my skills.
